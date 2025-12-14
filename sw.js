@@ -1,5 +1,5 @@
 // sw.js - Simple Service Worker
-const CACHE_NAME = 'smart-home-v1';
+const CACHE_NAME = 'smart-sw-v4';
 const urlsToCache = [
   './',
   './index.html',
